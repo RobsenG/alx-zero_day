@@ -4,4 +4,4 @@ git commit -m
 git branch
 git checkout -b
 git log
- 
+git pull 
